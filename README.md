@@ -27,7 +27,7 @@ Visualization: Using Seaborn & Matplotlib to analyze key relationships in the da
 To run this project, follow these steps:
 
 git clone https://github.com/khushimadan/Heart-Disease-Prediction.git
-cd heart-disease-prediction
+cd Heart-Disease-Prediction
 pip install -r requirements.txt
 jupyter notebook
 
