@@ -6,9 +6,9 @@ This project applies machine learning to predict heart disease based on clinical
 
 ## Dataset
 
-Source: UCI Machine Learning Repository
+Source: UCI Machine Learning Repository - https://archive.ics.uci.edu/dataset/45/heart+disease
 
-Alternative: Kaggle Dataset
+Alternative: Kaggle Dataset - https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
 The dataset includes features such as age, chest pain type, blood pressure, cholesterol levels, and more.
 
