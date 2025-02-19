@@ -45,9 +45,9 @@ Jupyter Notebook
 
 ## Results
 
-Achieved a target accuracy of ~95% (update based on actual results).
+Achieved an accuracy of ~90%
 
-The best-performing model was Random Forest (modify if needed).
+The best-performing model was Logistic Regression
 
 ## Future Improvements
 
